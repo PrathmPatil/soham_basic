@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page1 {
+  width: 1440px;
+  height: 700px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url("page1.jpg");
+  background-repeat: no-repeat;
+}
+.header-anchor:hover {
+  background-color: rgb(255 237 213);
+  color: black;
+  padding: 10px 5px;
+  border-radius: 10px;
+}
+.header-anchor {
+  font-size: large;
+  font-weight: 600;
+}
+.productImage {
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid #555;
+}
+.title {
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 20px;
+}
+.abputImage {
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid #8abb6e;
+}
